@@ -15,7 +15,7 @@ O programa deve:
     c) Calcular e mostrar a média de avistamentos por espécie.
     d) Informar qual foi a espécie mais avistada e qual foi a menos avistada no total da
     semana.
-
+    
 */
 
 int main(){
